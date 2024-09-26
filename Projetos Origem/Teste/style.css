@@ -1,0 +1,10 @@
+/*body {
+    background-color: #cbfd42;
+  }
+*/
+
+body{
+  width: 100px;
+  height: 25px;
+  background-image: url(imagemAsuaEscolha);
+}
